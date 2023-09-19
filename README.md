@@ -1,6 +1,11 @@
 AdventureWorks Data Mart Projects Documentation
 This documentation provides instructions for uploading the AdventureWorks Data Mart projects, including SSIS and SSAS, to GitHub.
 
+
+Star Schema 
+
+  -  ![Star Schema overview](https://github.com/Abdullah28-gheyad/Adventur-Works-DataMart/blob/master/star_schema.png)
+
 **Table of Contents**
 - Overview
 - Prerequisites
@@ -28,7 +33,32 @@ Copy the SSIS project files and folders to the local repository directory.
 Add, Commit, and Push:
 Use Git commands (git add, git commit, git push) to add the SSIS project to the repository on GitHub.
 
-SSIS Project
+🏥 ssis packedge overview 📊
+![ssis packedge overview](https://github.com/Abdullah28-gheyad/Adventur-Works-DataMart/blob/master/Control_Flow.png)
+
+- Date Dimention
+
+- ![Date Dimention overview](https://github.com/Abdullah28-gheyad/Adventur-Works-DataMart/blob/master/Date_dimention.png)
+
+- Territory dimention
+
+- - ![Territory Dimention overview](https://github.com/Abdullah28-gheyad/Adventur-Works-DataMart/blob/master/Territ_Dim.png)
+ 
+  - Customer Dimention
+ 
+  -  ![Customer Dimention overview](https://github.com/Abdullah28-gheyad/Adventur-Works-DataMart/blob/master/customer_dimention.png)
+ 
+  - Product Dimention
+ 
+  -  ![Product Dimention overview](https://github.com/Abdullah28-gheyad/Adventur-Works-DataMart/blob/master/product_dimention.png)
+ 
+
+Fact Table 
+
+
+  -  ![Fact Table overview](https://github.com/Abdullah28-gheyad/Adventur-Works-DataMart/blob/master/fact_table.png)
+
+
 
 4. Uploading SSAS Project
 Follow these steps to upload the SSAS project to GitHub:
