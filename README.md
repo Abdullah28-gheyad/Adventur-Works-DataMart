@@ -10,7 +10,6 @@ Star Schema
 - Overview
 - Prerequisites
 - Uploading SSIS Project
-- Uploading SSAS Project
 - Contributing
 - License
 1. Overview
@@ -59,20 +58,6 @@ Fact Table
   -  ![Fact Table overview](https://github.com/Abdullah28-gheyad/Adventur-Works-DataMart/blob/master/fact_table.png)
 
 
-
-4. Uploading SSAS Project
-Follow these steps to upload the SSAS project to GitHub:
-
-Clone the Repository:
-Clone the GitHub repository where you want to upload the SSAS project.
-
-Copy SSAS Project:
-Copy the SSAS project files and folders to the local repository directory.
-
-Add, Commit, and Push:
-Use Git commands (git add, git commit, git push) to add the SSAS project to the repository on GitHub.
-
-SSAS Project
 
 5. Contributing
 We welcome contributions! If you'd like to contribute to this project, follow these steps:
